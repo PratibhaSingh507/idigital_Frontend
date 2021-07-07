@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.crop-view {
+  background-image: url("https://c1.wallpaperflare.com/preview/132/130/391/crop-dark-farm-field.jpg");
+}
+.update {
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/627bc589-b21e-47b2-8cf2-7617185ee1ac/dcs51dc-8a753b78-d6f3-484f-9bb9-6d668d83af67.jpg/v1/fill/w_400,h_250,q_70,strp/meteor_by_alynspiller_dcs51dc-250t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzYyN2JjNTg5LWIyMWUtNDdiMi04Y2YyLTc2MTcxODVlZTFhY1wvZGNzNTFkYy04YTc1M2I3OC1kNmYzLTQ4NGYtOWJiOS02ZDY2OGQ4M2FmNjcuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.A5K2RyU3NyOImBRlHgkmfhrZJjGGiyPNapHYVn0DWg4");
+}
+/* .card-b {
+  background-color: lightgrey;
+}
+
+.table-striped {
+  background-color: lightblue;
+}
+
+.form-group {
+  background-color: lightblue;
+} */
